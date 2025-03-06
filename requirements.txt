@@ -1,6 +1,4 @@
-pip>=25.0.1
 streamlit
 pandas
 numpy
 scikit-learn
-pickle5  # Only if needed for compatibility
